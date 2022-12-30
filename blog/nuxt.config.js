@@ -30,7 +30,7 @@ export default {
     // https://go.nuxtjs.dev/stylelint
     '@nuxtjs/stylelint-module',
     // sanity
-    '@nuxtjs/sanity'
+    '@nuxtjs/sanity',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -41,6 +41,8 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    // sanity
+    '@nuxtjs/sanity',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
