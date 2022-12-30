@@ -1,6 +1,6 @@
-export default defineNuxtConfig({
-  modules: ['@nuxtjs/sanity'],
-  sanity: {
-    projectId: '98fr3k9q'
+{
+  "api": {
+    "projectId": "98fr3k9q",
+    "dataset": "production"
   }
-})
+}
