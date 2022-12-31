@@ -31,6 +31,8 @@ export default {
     '@nuxtjs/stylelint-module',
     // sanity
     '@nuxtjs/sanity',
+    // axios
+    '@nuxtjs/axios',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
